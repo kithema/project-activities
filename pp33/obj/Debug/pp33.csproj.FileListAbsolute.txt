@@ -1,0 +1,9 @@
+C:\Users\Kithema\source\repos\pp33\pp33\bin\Debug\pp33.exe.config
+C:\Users\Kithema\source\repos\pp33\pp33\bin\Debug\pp33.exe
+C:\Users\Kithema\source\repos\pp33\pp33\bin\Debug\pp33.pdb
+C:\Users\Kithema\source\repos\pp33\pp33\obj\Debug\pp33.csproj.AssemblyReference.cache
+C:\Users\Kithema\source\repos\pp33\pp33\obj\Debug\pp33.Properties.Resources.resources
+C:\Users\Kithema\source\repos\pp33\pp33\obj\Debug\pp33.csproj.GenerateResource.cache
+C:\Users\Kithema\source\repos\pp33\pp33\obj\Debug\pp33.csproj.CoreCompileInputs.cache
+C:\Users\Kithema\source\repos\pp33\pp33\obj\Debug\pp33.exe
+C:\Users\Kithema\source\repos\pp33\pp33\obj\Debug\pp33.pdb
