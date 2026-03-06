@@ -1,0 +1,10 @@
+C:\Users\Kithema\source\repos\pp42\pp42\bin\Debug\pp42.exe.config
+C:\Users\Kithema\source\repos\pp42\pp42\bin\Debug\pp42.exe
+C:\Users\Kithema\source\repos\pp42\pp42\bin\Debug\pp42.pdb
+C:\Users\Kithema\source\repos\pp42\pp42\obj\Debug\pp42.csproj.AssemblyReference.cache
+C:\Users\Kithema\source\repos\pp42\pp42\obj\Debug\pp42.Properties.Resources.resources
+C:\Users\Kithema\source\repos\pp42\pp42\obj\Debug\pp42.csproj.GenerateResource.cache
+C:\Users\Kithema\source\repos\pp42\pp42\obj\Debug\pp42.csproj.CoreCompileInputs.cache
+C:\Users\Kithema\source\repos\pp42\pp42\obj\Debug\pp42.exe
+C:\Users\Kithema\source\repos\pp42\pp42\obj\Debug\pp42.pdb
+C:\Users\Kithema\source\repos\pp42\pp42\obj\Debug\pp42.Form1.resources
