@@ -1,0 +1,9 @@
+C:\Users\Kithema\source\repos\pp4\pp4\obj\Debug\pp4.csproj.AssemblyReference.cache
+C:\Users\Kithema\source\repos\pp4\pp4\obj\Debug\pp4.Properties.Resources.resources
+C:\Users\Kithema\source\repos\pp4\pp4\obj\Debug\pp4.csproj.GenerateResource.cache
+C:\Users\Kithema\source\repos\pp4\pp4\obj\Debug\pp4.csproj.CoreCompileInputs.cache
+C:\Users\Kithema\source\repos\pp4\pp4\bin\Debug\pp4.exe.config
+C:\Users\Kithema\source\repos\pp4\pp4\bin\Debug\pp4.exe
+C:\Users\Kithema\source\repos\pp4\pp4\bin\Debug\pp4.pdb
+C:\Users\Kithema\source\repos\pp4\pp4\obj\Debug\pp4.exe
+C:\Users\Kithema\source\repos\pp4\pp4\obj\Debug\pp4.pdb
