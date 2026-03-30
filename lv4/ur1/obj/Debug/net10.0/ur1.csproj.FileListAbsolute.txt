@@ -1,0 +1,14 @@
+C:\Users\olabo\source\repos\ur1\bin\Debug\net10.0\ur1.exe
+C:\Users\olabo\source\repos\ur1\bin\Debug\net10.0\ur1.deps.json
+C:\Users\olabo\source\repos\ur1\bin\Debug\net10.0\ur1.runtimeconfig.json
+C:\Users\olabo\source\repos\ur1\bin\Debug\net10.0\ur1.dll
+C:\Users\olabo\source\repos\ur1\bin\Debug\net10.0\ur1.pdb
+C:\Users\olabo\source\repos\ur1\obj\Debug\net10.0\ur1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olabo\source\repos\ur1\obj\Debug\net10.0\ur1.AssemblyInfoInputs.cache
+C:\Users\olabo\source\repos\ur1\obj\Debug\net10.0\ur1.AssemblyInfo.cs
+C:\Users\olabo\source\repos\ur1\obj\Debug\net10.0\ur1.csproj.CoreCompileInputs.cache
+C:\Users\olabo\source\repos\ur1\obj\Debug\net10.0\ur1.dll
+C:\Users\olabo\source\repos\ur1\obj\Debug\net10.0\refint\ur1.dll
+C:\Users\olabo\source\repos\ur1\obj\Debug\net10.0\ur1.pdb
+C:\Users\olabo\source\repos\ur1\obj\Debug\net10.0\ur1.genruntimeconfig.cache
+C:\Users\olabo\source\repos\ur1\obj\Debug\net10.0\ref\ur1.dll
