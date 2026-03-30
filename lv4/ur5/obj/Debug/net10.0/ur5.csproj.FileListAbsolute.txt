@@ -1,0 +1,14 @@
+C:\Users\olabo\source\repos\ur5\bin\Debug\net10.0\ur5.exe
+C:\Users\olabo\source\repos\ur5\bin\Debug\net10.0\ur5.deps.json
+C:\Users\olabo\source\repos\ur5\bin\Debug\net10.0\ur5.runtimeconfig.json
+C:\Users\olabo\source\repos\ur5\bin\Debug\net10.0\ur5.dll
+C:\Users\olabo\source\repos\ur5\bin\Debug\net10.0\ur5.pdb
+C:\Users\olabo\source\repos\ur5\obj\Debug\net10.0\ur5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olabo\source\repos\ur5\obj\Debug\net10.0\ur5.AssemblyInfoInputs.cache
+C:\Users\olabo\source\repos\ur5\obj\Debug\net10.0\ur5.AssemblyInfo.cs
+C:\Users\olabo\source\repos\ur5\obj\Debug\net10.0\ur5.csproj.CoreCompileInputs.cache
+C:\Users\olabo\source\repos\ur5\obj\Debug\net10.0\ur5.dll
+C:\Users\olabo\source\repos\ur5\obj\Debug\net10.0\refint\ur5.dll
+C:\Users\olabo\source\repos\ur5\obj\Debug\net10.0\ur5.pdb
+C:\Users\olabo\source\repos\ur5\obj\Debug\net10.0\ur5.genruntimeconfig.cache
+C:\Users\olabo\source\repos\ur5\obj\Debug\net10.0\ref\ur5.dll
